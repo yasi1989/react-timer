@@ -11,11 +11,11 @@
 
 # 利用技術
 
-React
-TypeScript
-Vite
-Tailwind
-use-sound
+- React
+- TypeScript
+- Vite
+- Tailwind
+- use-sound
 
 # 環境構築
 
