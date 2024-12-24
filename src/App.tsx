@@ -1,6 +1,6 @@
-import Timer from "./app/Timer";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Timer from "./features/timer/Timer";
 
 function App() {
   return (
