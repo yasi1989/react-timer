@@ -1,6 +1,6 @@
-import { useTimer } from "../../hooks/useTimer";
 import TimerDisplay from "./components/TimerDisplay";
 import TimerHandlers from "./components/TimerHandlers";
+import { useTimer } from "./hooks/useTimer";
 
 const Timer = () => {
   const { time, isRunning, handleAddClick, handleReset, toggleTimer } =
